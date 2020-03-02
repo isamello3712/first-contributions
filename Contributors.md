@@ -31,6 +31,7 @@
 - Ashwini Jha
 - Prashanth Pai
 - 516M
+ Isadora (https://github.com/isamello3712)
 - Mark Kariuki
 - Mittul Mandhan
 - Julian Hendrix (https://github.com/swishahendrix)
